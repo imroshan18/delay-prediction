@@ -17,7 +17,7 @@ Typical inputs can include:
 - Day of week / date  
 - Distance or route info  
 - Historical delay behavior  
-- Weather or other operational factors (if available)
+- Weather or other operational factors
 
 The app provides a simple UI so users can enter trip details and instantly see whether the model predicts **“On Time”** or **“Delayed”**.
 
@@ -41,9 +41,6 @@ The app provides a simple UI so users can enter trip details and instantly see w
 - **Data Handling:** pandas, numpy
 - **Model Persistence:** pickle / joblib (saved model file)
 
-> Update this list if you used additional libraries (e.g., XGBoost, LightGBM, etc.).
-
----
 
 ## 📁 Project Structure
 
@@ -53,3 +50,6 @@ The app provides a simple UI so users can enter trip details and instantly see w
 ├── app.py                 # Main Streamlit app
 ├── model.pkl              # Trained ML model
 ├── requirements.txt       # Python dependencies
+
+'''
+
