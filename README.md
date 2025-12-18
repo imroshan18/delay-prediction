@@ -14,10 +14,9 @@ Typical inputs can include:
 
 - Departure and arrival stations  
 - Scheduled departure/arrival time  
-- Day of week / date  
-- Distance or route info  
+- Day of week / date   
 - Historical delay behavior  
-- Weather or other operational factors
+  
 
 The app provides a simple UI so users can enter trip details and instantly see whether the model predicts **“On Time”** or **“Delayed”**.
 
